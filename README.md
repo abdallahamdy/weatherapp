@@ -12,4 +12,4 @@ Search for a city to view current weather and 5 day forecast.
 https://abdallahamdy.github.io/weatherapp/
 
 ## Screenshot:
-![Alt text](./assets/css/images/website_screenshot.png?raw=true "Password generator website screenshot")
+![Alt text](./assets/css/images/weatherapp_screenshot.png?raw=true "weatherapp website screenshot")
