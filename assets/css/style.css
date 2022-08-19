@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-page {
+    justify-content: center;
+    /* border: 3px red solid; */
+}
+
+.page-title {
+    display: flex;
+    justify-content: center;
+    margin: 22px;
+    background-image: linear-gradient(to right, blue , purple);
+    color: white;
+    font-size: 36px;
+    padding: 10px 0px;
+    width: 97%;
+}
+
+.sidenav {
+    margin: 10px;
+    /* border: 3px red solid; */
+}
+
+.weather-container {
+    margin: 10px;
+    border: 1px black solid;
+}
+
+.form-input {
+    width: 100%;
+}
+
+.btn {
+    background-color: lightskyblue;
+    width: 100%;
+    padding: 0;
+    margin-top: 10px;
+}
+
+.btn:hover {
+    background-color: blue;
+    color: white;
+}
+
+.current-weather-container{
+    /* border: 3px green solid; */
+}
+
+.forecast-title {
+    margin-top: 30px;
+}
